@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - Telegram +37444882000
 
 <!---
 martir0s1an/martir0s1an is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
